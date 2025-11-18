@@ -1,6 +1,3 @@
-def main():
-    print("Hello from csproject!")
-
-
+import game
 if __name__ == "__main__":
-    main()
+    game.run()
